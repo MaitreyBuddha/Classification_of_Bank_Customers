@@ -1,0 +1,11 @@
+Description:
+
+--In the data table we have information related to bank customers.
+
+--The table contain Revenue Grid catagorical column. This column have two values.
+  If Revenue Grid is equal to 1, those customers are heavy traders.
+  If Revenue Grid column value is equal to 2, corresponding customers are not heavy traders.
+
+--I have splitted the data into train and test data. Build predictive model on train data
+  and tested the performance of model on test data.
+
